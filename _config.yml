@@ -7,14 +7,14 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Oliver Hoffmann
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Oliver P. Hoffmann
+subtitle: 霍夫曼
+email:
+name:
 description: > 
-  A simple yet classy theme for your Jekyll website or blog.
+  personal website.
 baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+url: "http://oliver.hoffmann.org" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
 
@@ -65,15 +65,15 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: wiemanindenwald
+    url: https://twitter.com/wiemanindenwald
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
-    url: 
+    username: wiemanindenwald
+    url: https://www.facebook.com/wiemanindenwald
     desc: Friend me on Facebook
     share: true
 
@@ -86,45 +86,45 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: ontore
+    url: Profilehttps://at.linkedin.com/in/ontore
     desc: Connect with me on LinkedIn
     share: true
 
   - name: Google+
     icon: google-plus
-    username: 
-    url: 
+    username: OliverHoffmannAustria
+    url: https://plus.google.com/+OliverHoffmannAustria
     desc: Add me to your Circles
     share: true
 
   - name: YouTube
     icon: youtube
-    username: 
-    url: 
+    username: ontoreable
+    url: https://www.youtube.com/user/ontoreable
     desc: Subscribe on YouTube
-    share: false
+    share: true
 
   - name: Instagram
     icon: instagram
-    username: 
-    url: 
+    username: ontore
+    url: https://www.instagram.com/ontore/
     desc: Follow me on Instagram
-    share: false
+    share: true
 
   - name: Pinterest
     icon: pinterest
-    username: 
-    url: 
+    username: ontore
+    url: https://www.pinterest.com/ontore/
     desc: Follow me on Pinterest
     share: true
 
   - name: SoundCloud
     icon: soundcloud
-    username: 
-    url: 
+    username: ontore
+    url: https://soundcloud.com/ontore
     desc: Follow me on SoundCloud
-    share: false
+    share: true
 
   - name: Tumblr
     icon: tumblr
