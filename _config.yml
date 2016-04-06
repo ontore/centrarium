@@ -1,13 +1,13 @@
 # External gems
-gems:
+#gems:
   # - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
+  # - jekyll-sitemap
 
 exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
+title: Oliver Hoffmann
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: blcentra@gmail.com
 name: Ben Centra
